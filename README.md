@@ -10,7 +10,7 @@ This repository contains:
 * Licence Agreement: `CPS dataset Licence Agreement`
 
 # Licence and Statement
-* It should be noted that due to the research needs, we are still increasing the number of images in the raw CPS dataset, so we cannot provide all the image data and annotations at one time. If you need more images, please fill in the `CPS dataset Licence Agreement` and send it by email to ''. We will give you feedback within 10 working days after receiving your email application.
+* It should be noted that due to the research needs, we are still increasing the number of images in the raw CPS dataset, so we cannot provide all the image data and annotations at one time. If you need more images, please fill in a scanned sign copy of `CPS dataset Licence Agreement` and send it by email to `guoxinrong2021@email.szu.edu.cn` or `xiaofangyan0611@gmail.com`. We will give you feedback within 10 working days after receiving your email application.
 * If you use our CPS dataset, please cite our paper "Automated Shell Abrasion Detection for Cell Phone based on GraphFPN with Learnable Sparse Priors" (IEEE TIM under review)
 
 # Citation
