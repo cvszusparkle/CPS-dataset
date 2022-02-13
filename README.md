@@ -19,8 +19,6 @@ This repository contains:
   journal={IEEE Transactions on Instrumentation and Measurement}, <br>
   title={Automated Shell Abrasion Detection for Cell Phone based on GraphFPN with Learnable Sparse Priors}, <br>
   year={2022},<br>
-  volume={},<br>
-  number={},<br>
   pages={1-1},<br>
   doi={10.1109/TIM.2022.3150591}<br>
 }<br>
