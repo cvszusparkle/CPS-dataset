@@ -14,4 +14,4 @@ This repository contains:
 * If you use our CPS dataset, please cite our paper "[Automated Shell Abrasion Detection for Cell Phone based on GraphFPN with Learnable Sparse Priors](https://ieeexplore.ieee.org/document/9709343)" (IEEE Transactions on Instrumentation and Measurement, accepted)
 
 # Citation
-TODO
+@ARTICLE{9709343,  author={Wu, Huisi and Guo, Xinrong and Xiao, Fangyan and Yan, Wei and Wen, Zhenkun},  journal={IEEE Transactions on Instrumentation and Measurement},   title={Automated Shell Abrasion Detection for Cell Phone based on GraphFPN with Learnable Sparse Priors},   year={2022},  volume={},  number={},  pages={1-1},  doi={10.1109/TIM.2022.3150591}}
