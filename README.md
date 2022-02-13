@@ -1,5 +1,5 @@
 # CPS-dataset
-A partial subset of the Cell Phone Shell (CPS) Dataset, which is applied in the work "Automated Shell Abrasion Detection for Cell Phone based on GraphFPN with Learnable Sparse Priors" (IEEE Transactions on Instrumentation and Measurement, under review)
+A partial subset of the Cell Phone Shell (CPS) Dataset, which is applied in the work "[Automated Shell Abrasion Detection for Cell Phone based on GraphFPN with Learnable Sparse Priors](https://ieeexplore.ieee.org/document/9709343)" (IEEE Transactions on Instrumentation and Measurement, accepted)
 
 # Contents
 This repository contains:
